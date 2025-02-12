@@ -1,0 +1,63 @@
+doc/generatedDiagrams
+.gradle
+.idea
+.vscode
+build
+out
+allure-results
+/self-service-ui/src2/main/resources/ui/node_modules/
+*.iml
+
+devops/*.jar
+
+/self-service-ui/src/features/buildInfo/buildInfo.json
+/self-service-backend/build
+/self-service-backend/out
+
+/self-service-backend/src/main/resources/currentBuild.properties
+/self-service-backend/src/test/kotlin/ru/sbrf/ecm/self/service/templates/rest/zipRest.zip
+/self-service-backend/src/test/kotlin/ru/sbrf/ecm/self/service/templates/zipRest.zip
+/self-service-backend/src/test/resources/cmis-json-test/generated-distro
+/filenet/deployment/distroSS/
+/filenet/deployment/distroSS.zip
+/filenet/deployment/changelist.log
+/filenet/deployment/ecm-tools.log
+/filenet/deployment/releaseNew.zip
+/filenet/deployment/releaseOld.zip
+/self-service-backend/src/main/resources/static
+/devops/docker/app.jar
+/devops/docker/sberecm/data/
+/devops/prometheus_grafana/grafana/
+/devops/prometheus_grafana/prometheus/
+/self-service-backend/src/test/kotlin/ru/sbrf/ecm/self/service/templates/service/remove.me
+/devops/scripts/prodlike.log
+/devops/prometheus_grafana/grafana/
+/devops/prometheus_grafana/prometheus/
+/devops/scripts/curl/environmentRes.json
+/amplicode.xml
+/logs/**
+/self-service-backend/logs/*
+/self-service-backend/src/test/resources/dbunit/dbunit_dump_after_restore.xml
+/self-service-backend/src/test/resources/osReport.xlsx
+/devops/scripts/curl/confluenceECD.html
+/devops/scripts/npm.txt
+/devops/scripts/result.jar
+/devops/scripts/curl/confluenceECD.html
+/devops/scripts/curl/environmentRes.json
+/self-service-ui/src/shared/.lib.tsx.swp
+/devops/docker/cmis/blacklist/blacklist.cmis
+/devops/docker/cmis/blacklist/blacklist.conf
+/devops/docker/cmis/digitalSign/sberDocumentSberSignatureRelationship.td
+/devops/docker/cmis/digitalSign/sberSignature.td
+/devops/docker/cmis/encryption/Encrypted storage area.cmis
+/devops/docker/cmis/encryption/Relationship between encrypted storage area and encryption storage device GEO1.cmis
+/devops/docker/cmis/encryption/Relationship between encryption storage policy and encrypted storage area.cmis
+/devops/docker/cmis/encryption/S3 encryption storage device GEO1.cmis
+/devops/docker/cmis/encryption/SearchRule to move documents to encrypted storage area.cmis
+/devops/docker/cmis/encryption/SearchRule with default storage policy relationship (encryption).cmis
+/devops/docker/cmis/encryption/Storage Policy For Encrypted Storage Area.cmis
+/devops/docker/cmis/storePolicy/SearchRule.cmis
+/self-service-backend/src/test/resources/test.html
+/self-service-backend/src/test/resources/smf-json-test/generated/*_1.json
+/.sberstack/maintenance.json
+/.sberstack/sberstack.properties
